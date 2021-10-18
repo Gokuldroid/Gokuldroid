@@ -13,12 +13,12 @@
 - ⚡ Fun fact **come on, let's fight over tab vs space**
 
 
-<p><img width="500" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Gokuldroid&theme=graywhite&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /> 
+<p align="center"><img width="500"  src="https://github-readme-streak-stats.herokuapp.com?user=Gokuldroid&theme=graywhite&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /> 
 </p>
 
-<p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api?username=gokuldroid&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="My github stats" /> 
+<p align="center"><img width="500" src="https://github-readme-stats.vercel.app/api?username=gokuldroid&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="My github stats" /> 
 </p>
-<p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokuldroid&layout=compact&theme=graywhite&hide_border=true" /></p>
+<p align="center"><img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokuldroid&layout=compact&theme=graywhite&hide_border=true" /></p>
 
 <p align="center">
 <a href="https://linkedin.com/in/gokul-prabhu-supersaiyan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gokul-prabhu-supersaiyan" height="30" width="30" /></a>
